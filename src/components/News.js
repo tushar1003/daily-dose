@@ -31,7 +31,7 @@ export class News extends Component {
       this.props.country
     }&category=${
       this.props.category
-    }&apiKey=c7bfa3eac4114fa087f1fa83d5ba3e3a&page= ${
+    }&apiKey=${this.props.apiKey}&page= ${
       this.state.page
     }&pageSize=15`;    this.setState({ loading: true });
     let data = await fetch(url);
@@ -91,7 +91,7 @@ export class News extends Component {
       this.props.country
     }&category=${
       this.props.category
-    }&apiKey=c7bfa3eac4114fa087f1fa83d5ba3e3a&page= ${
+    }&apiKey=${this.props.apiKey}&page= ${
       this.state.page
     }&pageSize=15`;
     let data = await fetch(url);
