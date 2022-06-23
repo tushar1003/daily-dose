@@ -1,18 +1,18 @@
 Live Site OverView
 ![image](https://user-images.githubusercontent.com/91830386/175228130-3789699b-e658-43a6-a328-b9c9f2b87cc5.png)
-This Project is a Simple ReactJS Project which demonstrates the following
+# This Project is a Simple ReactJS Project which demonstrates the following
 
-# Creating a Component in React
+Creating a Component in React
 
-# Using state and props in React
+Using state and props in React
 
-# Communicating between parent and child component
+Communicating between parent and child component
 
-# Use Of Axios Feature To retrieve data from api key
+Use Of Axios Feature To retrieve data from api key
 
-# use Of react router dom for different pages
+use Of react router dom for different pages
 
-# use of hooks like useState and useEffect
+use of hooks like useState and useEffect
 
 The project Template can be used to build bigger projects
 
